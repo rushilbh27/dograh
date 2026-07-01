@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.40.0 (2026-07-01)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Features
+* feat: support inbound vonage calls by @chewwbaka in https://github.com/dograh-hq/dograh/pull/480
+* feat: better interrupt strategies by @a6kme in https://github.com/dograh-hq/dograh/pull/479
+### Bug Fixes
+* fix: fix initial greeting for  realtime models by @a6kme in https://github.com/dograh-hq/dograh/pull/481
+* fix: guard Chatwoot bubble toggle until holder is in the DOM by @pk-198 in https://github.com/dograh-hq/dograh/pull/485
+### Other Changes
+* embed cal and chatwoot bubble missing fix by @pk-198 in https://github.com/dograh-hq/dograh/pull/483
+* Docs/add japanese readme by @sscodeai in https://github.com/dograh-hq/dograh/pull/477
+
+## New Contributors
+* @pk-198 made their first contribution in https://github.com/dograh-hq/dograh/pull/483
+* @sscodeai made their first contribution in https://github.com/dograh-hq/dograh/pull/477
+
+**Full Changelog**: https://github.com/dograh-hq/dograh/compare/dograh-v1.39.0...dograh-v1.40.0
+
 ## 1.39.0 (2026-06-27)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
